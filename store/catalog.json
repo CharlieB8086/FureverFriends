@@ -5,8 +5,9 @@
     "price": 3.50,
     "unit": "bag",
     "desc": "The description of food would go here!",
-    "image": "store/images/example-1.jpg",
+    "image": "FureverFriends/store/images/example-1.jpg",
     "tags": ["tuna", "homemade", "spheres"]
   }
 ]
+
 
