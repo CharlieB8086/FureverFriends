@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pumpkin-bites",
+    "name": "Pumpkin Bites",
+    "price": 3.50,
+    "unit": "bag",
+    "desc": "Oven-baked pumpkin treats. Grain-free, no nasties.",
+    "image": "store/images/pumpkin-bites.jpg",
+    "tags": ["dog", "grain-free", "homemade"]
+  },
+  {
+    "id": "cheddar-bones",
+    "name": "Cheddar Bones",
+    "price": 4.00,
+    "unit": "bag",
+    "desc": "Crispy biscuit bones with real cheddar.",
+    "image": "store/images/cheddar-bones.jpg",
+    "tags": ["dog", "cheese"]
+  },
+  {
+    "id": "tuna-crunch",
+    "name": "Tuna Crunch",
+    "price": 2.75,
+    "unit": "tub",
+    "desc": "Cat-approved tuna crunchies. High in protein.",
+    "image": "store/images/tuna-crunch.jpg",
+    "tags": ["cat", "protein"]
+  }
+]
