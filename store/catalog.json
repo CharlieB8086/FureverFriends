@@ -1,13 +1,11 @@
 [
   {
-    "id": "tuna-pea-balls",
-    "name": "Tuna & Pea Spheres",
-    "price": 3.50,
+    "id": "pumpkin-bites",
+    "name": "Pumpkin Bites",
+    "price": 5.0,
     "unit": "bag",
-    "desc": "The description of food would go here!",
-    "image": "FureverFriends/store/images/example-1.jpg",
-    "tags": ["tuna", "homemade", "spheres"]
+    "desc": "Oven-baked pumpkin dog treats.",
+    "tags": ["pumpkin", "grain-free"],
+    "image": "store/images/pumpkin-bites.jpg"
   }
 ]
-
-
